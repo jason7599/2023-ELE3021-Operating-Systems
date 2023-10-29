@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "param.h": "c",
+        "*.tcc": "c",
+        "type_traits": "c",
+        "defs.h": "c",
+        "cmath": "c",
+        "compare": "c",
+        "concepts": "c",
+        "limits": "c",
+        "new": "c",
+        "typeinfo": "c",
+        "stat.h": "c",
+        "types.h": "c",
+        "sleeplock.h": "c",
+        "spinlock.h": "c"
+    }
+}
